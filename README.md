@@ -28,7 +28,7 @@ go build -ldflags="-s -w" .
 
 ## ✅ Requirements
 
-- **mpv** or **vlc** video players for streaming
+- **mpv** or **vlc** video players in [PATH](https://en.wikipedia.org/wiki/PATH_(variable)) for streaming
 
 ## 🖐️ Usage
 
